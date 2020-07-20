@@ -1,11 +1,3 @@
-//
-//  ViewController.m
-//  MyPhoto
-//
-//  Created by 陈又铜 on 2020/7/16.
-//  Copyright © 2020 陈又铜. All rights reserved.
-//
-
 #import "ChangePhotoAlpha.h"
 
 @interface ViewController ()
