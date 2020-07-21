@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   # 项目名称,也就是pod使用这个库时候的名称
   s.name         = "ChangePhotoAlphaSDK" 
   # 版本,自己定一个版本迭代就行,如果要更新就把其版本号往上加
-  s.version      = "1.1.0"
+  s.version      = "1.1.1"
   # 主要标题
   s.summary      = "a objective-c project"
   # 详细描述（必须大于主要标题的长度）
